@@ -1,0 +1,32 @@
+[
+ {
+  # 第一期名称
+  period: "第一期",
+  # 第一期Seller合约地址
+  sellerAddr: "",
+  # TCard合约地址
+  nftAddr: "",
+  # USDT合约地址
+  usdtAddr: "0xdac17f958d2ee523a2206206994597c13d831ec7"
+ },
+ {
+  # 第二期名称
+  period: "第二期",
+  # 第二期Seller合约地址
+  sellerAddr: "",
+  # TCard合约地址
+  nftAddr: "",
+  # USDT合约地址
+  usdtAddr: "0xdac17f958d2ee523a2206206994597c13d831ec7"
+ },
+ {
+  # 第三期名称
+  period: "第三期",
+  # 第三期Seller合约地址
+  sellerAddr: "",
+  # TCard合约地址
+  nftAddr: "",
+  # USDT合约地址
+  usdtAddr: "0xdac17f958d2ee523a2206206994597c13d831ec7"
+ }
+]
